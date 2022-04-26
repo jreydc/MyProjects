@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: ParallaxBG
+    uniqueID: 4209108353
+    locked: 0
+  - name: Platforms
+    uniqueID: 905691149
+    locked: 0
+  - name: Player
+    uniqueID: 3167808881
+    locked: 0
+  - name: Interactables
+    uniqueID: 2043007861
+    locked: 0
